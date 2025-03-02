@@ -32,19 +32,19 @@
 | 28 | What is the synonym of Stavudine? | d4T | AZT | 3TC | EFZ | A |
 | 29 | What class of anti-hypertensive drug is Losartan? | Angiotensin-converting enzyme inhibitor | Angiotensin receptor blocker | Calcium channel blocker | Loop diuretics | B |
 | 30 | Hydrocortisone can be used for the management of allergic reaction and shock except?	Cardiovascular shock	Septic shock	Anaphylactic shock	Hypovolemic shock	B
-| 31 |	What is the action of mifepristone?	Anabolic steroid	Hypoglyceamic	Antipsychotic	Antiprogestin	D
-| 32 |	Which of the following is not 1st line fixed dose combination of antiretroviral drugs?	Abacvir+Lamivudine	Abacvir+Lamivudine+Efavirenz	Lamivudine+Zidovudine	Zidovudine+Lamivudine+Darunavir	D
-| 33 |	A client has an angiotensin-converting enzyme (ACE) inhibitor, Lisinopril 10 mg daily added to the medication regimen. Which of the following client statements will the nurse recognize as a potential side effect of the medication?	I have noticed that I am urinating more than normal.	I have a dry, hacky cough throughout the day.	I feel weak and lethargic in the afternoon.	I feel that I am having heart palpitations	B
-| 34 |	Which group does propranolol, atenolol and metoprolol belong to?	Beta-adrenergic blockers	Alpha blocker 	Gamma 	All of the above	A
-| 35 | What is generic name of a drug?	The name assigned to the drug by the pharmaceutical company that develop it	The chemical name of the drug based on its chemical structure	The original name assigned to the drug at the beginning of the evaluation process	The name that is often used in advertising campaigns	C
-| 36 |	Which of the following drugs is not a calcium channel blocker?	Amlodipine 	Verapamil	Lisinopril	Nifedipine	C
-| 37 | Treponema pallidum is the causal organism of.......?	Wart	Schistosomiasis	Syphilis	Herpes simplex	C
-| 38 |	Diagnosis of polycythemia is made in women when heamatocrit level is above? 	45%	50%	55%	60%	B
-| 39 |	The following are natural haemostatic process EXCEPT?	Vasoconstriction	Fibrinolysis	Platelet plug formation	Clot formation	B
-| 40 |	Practice of intentional ending of life in order to relieve pain and suffering is 	Euthanasa	Euthanasia	Ethanasia	Euthanas	B
+| 31 |	What is the action of mifepristone?	| Anabolic steroid	| Hypoglyceamic	| Antipsychotic	| Antiprogestin	| D |
+| 32 |	Which of the following is not 1st line fixed dose combination of antiretroviral drugs?	| Abacvir+Lamivudine	| Abacvir+Lamivudine+Efavirenz	| Lamivudine+Zidovudine	| Zidovudine+Lamivudine+Darunavir	| D |
+| 33 |	A client has an angiotensin-converting enzyme (ACE) inhibitor, Lisinopril 10 mg daily added to the medication regimen. Which of the following client statements will the nurse recognize as a potential side effect of the medication?	| I have noticed that I am urinating more than normal. | I have a dry, hacky cough throughout the day.	| I feel weak and lethargic in the afternoon.	| I feel that I am having heart palpitations	| B |
+| 34 |	Which group does propranolol, atenolol and metoprolol belong to?	| Beta-adrenergic blockers	| Alpha blocker |	Gamma |	All of the above	| A |
+| 35 | What is generic name of a drug?	| The name assigned to the drug by the pharmaceutical company that develop it	| The chemical name of the drug based on its chemical structure	| The original name assigned to the drug at the beginning of the evaluation process	| The name that is often used in advertising campaigns | C | 
+| 36 |	Which of the following drugs is not a calcium channel blocker?	| Amlodipine |	Verapamil	| Lisinopril	| Nifedipine	| C |
+| 37 | Treponema pallidum is the causal organism of.......?	| Wart	| Schistosomiasis	| Syphilis	| Herpes simplex	| C |
+| 38 |	Diagnosis of polycythemia is made in women when heamatocrit level is above? |	45%	| 50%	| 55%	| 60%	| B |
+| 39 |	The following are natural haemostatic process EXCEPT?	| Vasoconstriction |	Fibrinolysis	|Platelet plug formation	| Clot formation	| B |
+| 40 |	Practice of intentional ending of life in order to relieve pain and suffering is 	| Euthanasa |	Euthanasia | Ethanasia	| Euthanas	| B |
 ![image](https://github.com/user-attachments/assets/951e3095-c7b3-49c2-b626-480c405f8b75)
-| 41 |	A theorist whose studies centred on satisfaction at work is?	Maslow’s theory	Argyris theory	Fredrick theory	Max Weber theory	C
-| 42 |	Peritonsillar abscess is also known as	Polyps	Quinsy	Vincent’s abscess	Thrush	B
+| 41 |	A theorist whose studies centred on satisfaction at work is?	| Maslow’s theory	| Argyris theory	| Fredrick theory	| Max Weber theory	| C |
+| 42 |	Peritonsillar abscess is also known as	| Polyps	| Quinsy	| Vincent’s abscess	| Thrush	| B |
 |43 |	Which of the following post-operative orders for a child who has had tonsillectomy would you as a nurse questioned?	Clear, cool liquids when awake	No milk or milk products	Monitor for bleeding	Suction every 2 hours	D
 | 44 |	Pain that is transmitted to cutaneous site different from where it originates is known as	Trancient pain	Superficial pain	Phantom pain	Reffered pain	D
 | 45 |	In female, the onset of puberty is first marked by -----------	Menache	Thelarche	Pubarche	Adrenarche	B
