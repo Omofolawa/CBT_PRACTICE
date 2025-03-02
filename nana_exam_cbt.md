@@ -31,7 +31,7 @@
 | 27 | What is the synonym of Zidovudine? | d4T | AZT | 3TC | EFZ | B |
 | 28 | What is the synonym of Stavudine? | d4T | AZT | 3TC | EFZ | A |
 | 29 | What class of anti-hypertensive drug is Losartan? | Angiotensin-converting enzyme inhibitor | Angiotensin receptor blocker | Calcium channel blocker | Loop diuretics | B |
-| 30 | Hydrocortisone can be used for the management of allergic reaction and shock except?	Cardiovascular shock	Septic shock	Anaphylactic shock	Hypovolemic shock	B
+| 30 | Hydrocortisone can be used for the management of allergic reaction and shock except?	| Cardiovascular shock	| Septic shock	| Anaphylactic shock	| Hypovolemic shock	| B |
 | 31 |	What is the action of mifepristone?	| Anabolic steroid	| Hypoglyceamic	| Antipsychotic	| Antiprogestin	| D |
 | 32 |	Which of the following is not 1st line fixed dose combination of antiretroviral drugs?	| Abacvir+Lamivudine	| Abacvir+Lamivudine+Efavirenz	| Lamivudine+Zidovudine	| Zidovudine+Lamivudine+Darunavir	| D |
 | 33 |	A client has an angiotensin-converting enzyme (ACE) inhibitor, Lisinopril 10 mg daily added to the medication regimen. Which of the following client statements will the nurse recognize as a potential side effect of the medication?	| I have noticed that I am urinating more than normal. | I have a dry, hacky cough throughout the day.	| I feel weak and lethargic in the afternoon.	| I feel that I am having heart palpitations	| B |
@@ -45,30 +45,30 @@
 ![image](https://github.com/user-attachments/assets/951e3095-c7b3-49c2-b626-480c405f8b75)
 | 41 |	A theorist whose studies centred on satisfaction at work is?	| Maslow’s theory	| Argyris theory	| Fredrick theory	| Max Weber theory	| C |
 | 42 |	Peritonsillar abscess is also known as	| Polyps	| Quinsy	| Vincent’s abscess	| Thrush	| B |
-|43 |	Which of the following post-operative orders for a child who has had tonsillectomy would you as a nurse questioned?	Clear, cool liquids when awake	No milk or milk products	Monitor for bleeding	Suction every 2 hours	D
-| 44 |	Pain that is transmitted to cutaneous site different from where it originates is known as	Trancient pain	Superficial pain	Phantom pain	Reffered pain	D
-| 45 |	In female, the onset of puberty is first marked by -----------	Menache	Thelarche	Pubarche	Adrenarche	B
-| 46 |	During a nutritional assessment bleeding gums and gingivitis indicate which vitamin deficiency?	Vitamin D	Vitamin C	Vitamin A	Vitamin B	C
-| 47 |	hich of the following stages is the first in Erik Erikson's stages of psychosocial development?	Autonomy vs. Shame and Doubt	Trust vs. Mistrust	Initiative vs. Guilt	Industry vs. Inferiority	B
-| 48 |	In the context of human development, the term "adolescence" refers to the period:	From birth to age 2	From age 3 to 6	From age 7 to 12	From puberty to adulthood	D
-| 49 |	What is the outcome of mitosis in terms of the number and type of cells produced?	Four haploid cells	Two diploid cells	Two haploid cells	Four diploid cells	B
-| 50 |	Which phase of meiosis is characterized by the separation of sister chromatids?	Anaphase I	Anaphase II	Metaphase I	Metaphase II	B
-| 51 |	What is the condition called when an individual has an extra chromosome 21?	Turner syndrome	Klinefelter syndrome	Down syndrome	Patau syndrome	C
-| 52 |	Which syndrome is caused by an extra X chromosome in males (47,XXY)?	Turner syndrome	Klinefelter syndrome	Down syndrome	Cri-du-chat syndrome	B
-| 53 |	Which of the following psychologists is most closely associated with classical conditioning?	B.F. Skinner	Ivan Pavlov	Albert Bandura	John Watson	B
-| 54 |	In humans, how many pairs of chromosomes are found in each somatic cell?	20 pairs	21 pairs	22 pairs	23 pairs	D
-| 55 |	Which chromosome combination typically determines a male in humans?	XX	XY	YY	XO	B
-| 56 |	According to Freud's psychosexual theory, which stage is characterized by the focus on the genitals and the Oedipus or Electra complex?	Oral	Anal	Phallic	Latency	C
-| 57 |	What is the first step in the scientific method?	Formulating a hypothesis	Conducting experiments	Analyzing data	Making conclusions	A
-| 58 |	A client learns best when he is able to physically do something. This is which type of learning style?	Visual learning 	Auditory learning 	Kinesthetic learning 	Cognitive learning	C
-| 59 |	Two basic components of health maintenance are	Health promotion and wellness	Disease prevention and patient education	Health promotion and disease prevention	Disease prevention and risk factor identification	C
-| 60 |	Which of the following is NOT a symptom of opiate withdrawal?	Muscle cramps 	Pupillary constriction 	Tachycardia	Diarrhoea	B
-| 61 |	Which of the following groups of cells in the male gonad, represent haploid cells?	Primary spermatocytes 	Spermatogonial cells	Germinal epithelial cells 	Secondary spermatocytes	D
-| 62 |	The vagina is lined by a:	Stratified squamous epithelium	Simple ciliated columnar epithelium	Transitional epithelium	Simple cuboidal epithelium	A
-| 63 |	Following a tonsillectomy, it is important to include which of these measures in the child’s care plan?	Observing for frequent swallowing	Encouraging deep breathing and coughing	Applying warm compresses to the neck	Palpating the neck for oedema	A
-| 64 |	A 10-month-old who has bacterial meningitis is to be observed for signs of increasing intracranial pressure, which include:	depressed anterior fontanel	weak cry	vomiting	sudden diuresis	C
-| 65 |	Which symptom would occur in a patient with a detached retina?	Flashing lights and floaters	Homonymous hemianopia	Loss of central vision	Ptosis	A
-| 66 |	Which of the following is the formula for range?	H + L	L x H	L - H	 H – L	D
+|43 |	Which of the following post-operative orders for a child who has had tonsillectomy would you as a nurse questioned?	| Clear, cool liquids when awake	| No milk or milk products	| Monitor for bleeding	| Suction every 2 hours	| D |
+| 44 |	Pain that is transmitted to cutaneous site different from where it originates is known as	| Trancient pain |	Superficial pain |	Phantom pain	| Reffered pain	| D | 
+| 45 |	In female, the onset of puberty is first marked by -----------	| Menache |	Thelarche	| Pubarche	| Adrenarche	| B |
+| 46 |	During a nutritional assessment bleeding gums and gingivitis indicate which vitamin deficiency?	| Vitamin D	| Vitamin C	| Vitamin A	| Vitamin B	| C |
+| 47 |	hich of the following stages is the first in Erik Erikson's stages of psychosocial development?	| Autonomy vs. Shame and Doubt	| Trust vs. Mistrust	| Initiative vs. Guilt	| Industry vs. Inferiority	| B |
+| 48 |	In the context of human development, the term "adolescence" refers to the period:	| From birth to age 2	| From age 3 to 6	| From age 7 to 12	| From puberty to adulthood	| D | 
+| 49 |	What is the outcome of mitosis in terms of the number and type of cells produced?	| Four haploid cells |	Two diploid cells	| Two haploid cells	| Four diploid cells	| B | 
+| 50 |	Which phase of meiosis is characterized by the separation of sister chromatids?	| Anaphase I |	Anaphase II	| Metaphase I	| Metaphase II	| B | 
+| 51 |	What is the condition called when an individual has an extra chromosome 21?	| Turner syndrome	| Klinefelter syndrome	| Down syndrome	| Patau syndrome	| C |
+| 52 |	Which syndrome is caused by an extra X chromosome in males (47,XXY)?	| Turner syndrome	| Klinefelter syndrome	| Down syndrome	| Cri-du-chat syndrome	| B |
+| 53 |	Which of the following psychologists is most closely associated with classical conditioning?	| B.F. Skinner	| Ivan Pavlov	| Albert Bandura	| John Watson	| B |
+| 54 |	In humans, how many pairs of chromosomes are found in each somatic cell?	| 20 pairs	| 21 pairs	| 22 pairs	| 23 pairs	| D |
+| 55 |	Which chromosome combination typically determines a male in humans?	| XX | XY	| YY | XO	| B |
+| 56 |	According to Freud's psychosexual theory, which stage is characterized by the focus on the genitals and the Oedipus or Electra complex?	| Oral	| Anal	| Phallic	| Latency	| C |
+| 57 |	What is the first step in the scientific method?	| Formulating a hypothesis	| Conducting experiments	| Analyzing data	| Making conclusions	| A |
+| 58 |	A client learns best when he is able to physically do something. This is which type of learning style?	| Visual learning | Auditory learning | Kinesthetic learning | Cognitive learning	| C |
+| 59 |	Two basic components of health maintenance are	| Health promotion and wellness	| Disease prevention and patient education |	Health promotion and disease prevention	| Disease prevention and risk factor identification	| C |
+| 60 |	Which of the following is NOT a symptom of opiate withdrawal?	| Muscle cramps |	Pupillary constriction | Tachycardia	| Diarrhoea	| B |
+| 61 |	Which of the following groups of cells in the male gonad, represent haploid cells?	| Primary spermatocytes | Spermatogonial cells |	Germinal epithelial cells | Secondary spermatocytes	| D |
+| 62 |	The vagina is lined by a:	| Stratified squamous epithelium	| Simple ciliated columnar epithelium	| Transitional epithelium	| Simple cuboidal epithelium	| A |
+| 63 |	Following a tonsillectomy, it is important to include which of these measures in the child’s care plan?	| Observing for frequent swallowing	| Encouraging deep breathing and coughing	| Applying warm compresses to the neck	| Palpating the neck for oedema	| A |
+| 64 |	A 10-month-old who has bacterial meningitis is to be observed for signs of increasing intracranial pressure, which include:	| depressed anterior fontanel	| weak cry | vomiting	| sudden diuresis	| C |
+| 65 |	Which symptom would occur in a patient with a detached retina?	| Flashing lights and floaters |	Homonymous hemianopia	| Loss of central vision	| Ptosis	| A |
+| 66 |	Which of the following is the formula for range?	| H + L	| L x H	| L - H	 | H – L	| D |
 | 67 |	The nurse is caring for a client diagnosed with acute otitis media. Which signs/symptoms support this medical diagnosis?	Unilateral pain in the ear.	Green, foul-smelling drainage.	Sensation of congestion in the ear.	Reports of hearing loss.	A
 | 68 |	Cleft palate occurs mostly in --------------- children	female and male	male	female	obese	C
 | 69 |	Buscopan is an example of?	Pain relieve	Antispomodic	Analgesic	Antimalaria	B
