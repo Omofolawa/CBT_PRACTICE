@@ -69,13 +69,13 @@
 | 64 |	A 10-month-old who has bacterial meningitis is to be observed for signs of increasing intracranial pressure, which include:	| depressed anterior fontanel	| weak cry | vomiting	| sudden diuresis	| C |
 | 65 |	Which symptom would occur in a patient with a detached retina?	| Flashing lights and floaters |	Homonymous hemianopia	| Loss of central vision	| Ptosis	| A |
 | 66 |	Which of the following is the formula for range?	| H + L	| L x H	| L - H	 | H – L	| D |
-| 67 |	The nurse is caring for a client diagnosed with acute otitis media. Which signs/symptoms support this medical diagnosis?	Unilateral pain in the ear.	Green, foul-smelling drainage.	Sensation of congestion in the ear.	Reports of hearing loss.	A
-| 68 |	Cleft palate occurs mostly in --------------- children	female and male	male	female	obese	C
-| 69 |	Buscopan is an example of?	Pain relieve	Antispomodic	Analgesic	Antimalaria	B
-| 70 |	Which of these is not a mechanism of health care financing in Nigeria?	General Revenue	Social benefit	Out-of-Pocket Spending	External Aid	B
-| 71 |	The nurse is teaching a patient and his family about dietary practices related to Parkinson’s disease. A priority for the nurse to address is risk of:	fluid overload and drooling.	Aspiration and anorexia.	choking and diarrhoea.	dysphagia and constipation.	D
-| 72 |	n a patient with meningitis, irritation to which Cranial Nerve could cause photophobia?	III	IV	V	VI	C
-| 73 |	Which assessment data would indicate to the nurse that the client would be at risk for a haemorrhagic stroke?	A blood glucose level of 480 mg/dL.	A right-sided carotid bruit.	A blood pressure of 220/120 mm Hg.	The presence of bronchogenic carcinoma.	C
+| 67 |	The nurse is caring for a client diagnosed with acute otitis media. Which signs/symptoms support this medical diagnosis?	| Unilateral pain in the ear.	| Green, foul-smelling drainage.	| Sensation of congestion in the ear.	| Reports of hearing loss.	| A |
+| 68 |	Cleft palate occurs mostly in ---------------- children |	female and male	| male	| female	| obese	| C |
+| 69 |	Buscopan is an example of?	| Pain relieve |	Antispomodic |	Analgesic |	Antimalaria	| B |
+| 70 |	Which of these is not a mechanism of health care financing in Nigeria?	| General Revenue	| Social benefit |	Out-of-Pocket Spending	| External Aid	| B |
+| 71 |	The nurse is teaching a patient and his family about dietary practices related to Parkinson’s disease. A priority for the nurse to address is risk of:	| fluid overload and drooling. |	Aspiration and anorexia. | choking and diarrhoea.	| dysphagia and constipation. |	D |
+| 72 |	n a patient with meningitis, irritation to which Cranial Nerve could cause photophobia?	| III	| IV | V  |VI	| C | 
+| 73 |	Which assessment data would indicate to the nurse that the client would be at risk for a haemorrhagic stroke?	| A blood glucose level of 480 mg/dL.	| A right-sided carotid bruit.	| A blood pressure of 220/120 mm Hg.	| The presence of bronchogenic carcinoma. |	C |
 | 74 |	The third stage of general adaptation syndrome is ____________.	Stage of alarm	State of exhaustion	State of resistance	State of reconciliation	B
 | 75 |	____________ is defined as a purposeful goal directed dialogue between the nurse and patient and his family that aimed at collecting specific information from them	Physical examination	Interview	Observation	Recording	B
 | 76 |	Thyroid hormones:	inhibits protein synthesis, releases fatty acids and stimulates glucose formation	Stimulate storage of glucose and fat	Inhibits insulin and glucagon	increase the rate of metabolism, enhance protein synthesis, and stimulate lipid break down	D
