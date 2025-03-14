@@ -263,3 +263,100 @@ END, ALL THE BEST MATEY
 | 150 | The invasion and multiplication of an organism in or on the tissue of a host is referred to as _____ | Disease | Immune response | Infection | Pathogen | A |
 | 151 | A sudden, unexpected occurrence of a disease within a given population is ___ | An endemic | A Pandemic | An epidemic | An outbreak | C |
 | 152 | All of the following are highly communicable viral diseases EXCEPT ______ | Measles | Meningitis | Mumps | Pertussis | D |
+| 153 | According to WHO, which of the following non-communicable disease records highest death? | Diabetes | Cancer | Cardiovascular diseases | Respiratory diseases | C |
+| 154 | Hepatitis A is spread through which of the following means? | Body fluids and blood | Vectors | Food and water | Airborne | C |
+| 155 | Which of the following does not cause viral gastroenteritis? | Rotavirus | Hepatitis B virus | Astrovirus | Adenovirus | B |
+| 156 | One of the leading cause of blindness in the world is ___ | Trachinela sp | Trichuria trichuiris | Trachoma trachomatis | Trichomonas vaginalis | C |
+| 157 | Which of the following statements is a primary preventive measure for pulmonary TB? | Provide public health nursing outreach services | BCG vaccination of newborns and preliminary school entrants | Make available medical & X-ray facilities | Educate the public on the mode of transmission and methods of control of Pulmonary TB | D |
+| 158 | What is the incubation period of rubella? | 12- 23 days | 12- 25 days | 12 – 33 days | 12- 35 days | A |
+| 159 | Which of the following is not an acute respiratory tract infection? | Rhinitis | Influenza | COPD | Common cold | C |
+| 160 | Which of the following diseases spreads through respiratory route? | Influenza | Mumps | Measles | All of the above | D |
+| 161 | Which of the following pair of disease is caused by virus? | Rabies, mumps | AIDS, syphilis | Typhoid, tetanus | Cholera, tuberculosis | A |
+| 162 | The right to make decision for oneself is called | Independence | Beneficience | Battery | Autonomy | D |
+| 163 | When was Florence Nightingale born? | 2nd May, 1820 | 10th May, 1820 | 12th May, 1820 | 12th June, 1820 | C |
+| 164 | Which of the following is not a key effective management skill? | Planning | Power | Problem solving | Delegating | B |
+| 165 | Which of the following is NOT a common measure of central tendency? | Mode | Range | Median | Mean | B |
+| 166 | Which term describes the formation of the neural tube? | Neurolisation | Neurulation | Neurology | Neuroectoderm | B |
+| 167 | What is the median of the following set of scores? 18, 6, 17, 10, 14? | 10 | 14 | 18 | 17 | D |
+| 168 | On average, what is the weight of human brain? | 1.3kg - 1.5kg | 1.3kg – 1.6kg | 1.3kg – 14kg | 1.3 – 1.4kg | D |
+| 169 | The two cerebral hemispheres are connected by a white matter structure, called? | Corpus collasum | Copus callosum | Copurs collasum | Corpus callosum | D |
+| 170 | The nasolacrimal duct empties tears into what cavity? | Orbit cavity | Bony cavity | Nasal cavity | Oral cavity | C |
+| 171 | Which cranial nerve is referred to as the wandering nerve? | Vagus nerve | Trigeminal nerve | Abducens nerve | Hypoglossal nerve | A |
+| 172 | The cerebral hemispheres has how many lobes? | 2 lobes | 4 lobes | 5 lobes | 6 lobes | B |
+| 173 | Cost sharing | Includes copayment and deductibles | Is a strategy to encourage consumers of health care to consider the cost and value of care when using/purchasing health care services | All of the above | None of the above | C |
+| 174 | Maximum out-of-pocket limits | Cap the amount of health care costs an individual or family pays in a single year | Were put into place with the passage of the Affordable Care Act | Both A and B | None of the above | A |
+| 175 | The cost of health care | Is borne by society in the financial form of taxes or insurance premiums | Is actually revenue to the provider | All of the above | None of the above | C |
+| 176 | What part of the GI tract contains the largest population of microorganisms (microbiota)? | Colon | Jejunum | Duodenum | Stomach | A |
+| 177 | Escherichia coli is a common gram _____ that can be a cause of ____ | positive rod; hemorrhagic colitis | negative rod; traveler’s diarrhea | positive coccus; typhoid fever | negative rod; cholera | B |
+| 178 | Standard deviation is best described by which of the following statements? | It can be used to compare variation between two or more variables. | It is the average distance of each point from the mean. | It is the variance squared. | Both a and b are correct | B |
+| 179 | Nominal-level data can be displayed in | A histogram. | Stem-and-leaf plot. | Bar chart. | Frequency table | C |
+| 180 | Which of the following is the most common response to stress? | Anger | Anxiety | Despair | Depression | B |
+| 181 | The goal of job performance evaluating include all except? | Set an evaluation schedule | Recognize achievement | Promote professional growth | Evaluate job progress | A |
+| 182 | The leadership style that is most effective in crisis situation is | Democracy | Bureaucracy | Autocracy | Idiosyncrasy | C |
+| 183 | Clinical audit refers to …………………… | An attempt to record all clinical activities | Taking account of staff and their needs | A critical analysis of the performance of those providing the care | Concentrating on the work environment | C |
+| 184 | Which of the following sequence is correct about urine flow through the kidney to the urinary bladder? | Renal pelvis, major calyx, minor calyx, papillary duct, ureter | Papillary duct, minor calyx, major calyx, renal pelvis, ureter | Minor calyx, major calyx, papillary duct, renal pelvis, ureter | Papillary duct, major calyx, minor calyx, ureter, renal pelvis | B |
+| 185 | One of the intrarenal causes of acute renal failure is | Haemorrhage | Nephrotoxic agents | Cardiogenic shock | Hypovolemia | B |
+| 186 | What is the normal serum value of sodium | 138- 148mEq/L | 135- 145mEq/L | 130- 140mEq/L | 128-148mEq/L | B |
+| 187 | What is the duration of oliguric phase in acute renal failure? | 1-3weeks | 2-6weeks | 1-5weeks | 2-8weeks | A |
+| 188 | A patient with acute kidney failure state ‘’why am I twitching and my fingers and toes tingling’’ The Nurse should respond that this is caused by | Acidosis | Calcium depletion | Potassium retention | Sodium chloride depletion. | C |
+| 189 | What is the specific gravity of urine of a patient with End Stage Renal Disease? | 1.01 | 1.1 | 1 | 1.001 | A |
+| 190 | Which of the following is a post renal cause of acute renal failure? | Tubular necrosis | Decreased cardiac output | Bladder neck obstruction | Dehydration | C |
+| 191 | Where does most tubular re-absorption takes place? | Proximal convoluted tubule | Loop of Henle | Distal convoluted tubule | Collecting ducts. | A |
+| 192 | Where is the micturition reflex centre located? | Kidney | Cerebrum | Hypothalamus | Sacral ligament of the spinal cord | D |
+| 193 | Which of the following statement about kidney is false? | They are retroperitoneal | They each contain 8 to 15 renal pyramids | They each have a distinct renal cortex and renal medulla | They are located between third and fifth lumbar | D |
+| 194 | What occurs for urine to enter the urethra from bladder? | Detrusor muscle contracts and internal sphincter relaxes | Detrusor muscle relaxes and internal sphincter contracts | Internal sphincter contracts and external sphincter contracts | Internal sphincter relaxes and external sphincter relaxes | A |
+| 195 | A client has a history of oliguria, hypertension, and peripheral edema. Current lab values are: BUN –25, K+ –4.0 mEq/L. Which nutrient should be restricted in the client’s diet? | Protein. | Fats. | Carbohydrates | Magnesium | A |
+| 196 | During a routine home visit, a client describes what the nurse believes may be symptoms related to gastroesophageal reflux disease (GERD), which symptom would the nurse expect to be this client’s chief complaint? | Vomiting | Nausea | Anorexia | Heartburn | D |
+| 197 | With spinal anesthesia, which postoperative assessment should the nurse consider a priority after the client’s herniorrhaphy? | Ability to urinate | Coughing efforts | Level of consciousness | Pain tolerance | A |
+| 198 | Which of the following components of the ECG represents ventricular depolarization? | P-wave | QRS complex | T-wave | U-wave | B |
+| 199 | Which of the following is part of anthropometric assessment? | Blood pressure measurement | Blood glucose level testing | Height and weight measurement | Cholesterol level testing | C |
+| 200 | Leadership is best described as | The use of authority to control subordinates | A one-size-fits-all approach to management | Influencing and motivating others to achieve goals | Micro managing employees | C |
+| 201 | Which of the following is an essential component of effective communication in healthcare organizations? | Hoarding information | Closed-door policies | Transparent and open channels | Strict hierarchy | C |
+| 202 | Which of the following is late sign of cancer? | Persistent fatigue | Sudden weight loss | Change in mole colour or shape | Unexplained pain | B |
+| 203 | The mesenteric lymph node found in the small intestine is called | Kupffer cells | Lymph node | Peyers patches | Permanent cells | C |
+| 204 | The functional unit of the muscle fibre is called | Sarcolemma | Sarcomere | Saphena | Myeloma | B |
+| 205 | Vesicovaginal fistula is an abnormal communication between | The bladder and the vaginal wall | The bladder and the pouch of douglas | The bladder and the symphysis pubis | The rectum and the vaginal wall | A |
+| 206 | The absent of ineffective peristalsis of the distal oesophagus accompanied by failure of the oesophageal sphincter to relax in response to swallowing is called | Acalashia | Achalasia | Arcalasia | Archalasia | B |
+| 207 | Which of these observations would be most important when caring for a client who has been using cocaine? | Elevated blood pressure | Anorexia | Hallucinations | Irritability | A |
+| 208 | The most frequently occurring number in a set of values is called the --------- | Mean | Median | Mode | Range | C |
+| 209 | As a general rule, the ----------- is the best measure of central tendency because it is more precise. | Mean | Median | Mode | Range | A |
+| 210 | The median is ------ | The middle point | The highest number | The average | Affected by extreme scores | A |
+| 211 | The first line of drugs used in the treatment of tuberculosis include | Ciproflaxinl, Cinoxacin, Gentamycin, Ethambutol | Vancomycin, Streptomycin, Isoniazid, Cinoxacin | Isoniazid, Ethambutol, Pyrazinamide, Rifampicin | Pyrazinamide, Gentamycin, Streptomycin | C |
+| 212 | Which of the following is correct about the telencephalon region of the brain? | It develops as a neural tube differentiates | It develops from the mid-brain | It divides further into metencephalon and myelencephalon | It gives rise to the cerebrum | D |
+| 213 | How many facial bones are paired? | 3 | 4 | 5 | 6 | D |
+| 214 | The surgical procedure fistulectomy is indicated in which of the following conditions? | Anal fissures | Anal fistula | Haemorrhoids | Anal abcess | B |
+| 215 | Idiosyncrasy is: | An unusual abnormal reaction to drugs | A characteristic toxic effect at therapeutic doses | An altered physiological state produced by repeated drug uses | An immunologically mediated reaction | A |
+| 216 | Classification of vitamins are based on | Permeability | Availability | Solubility | Affordability | C |
+| 217 | All are essential amino acid except | Leucine | Blycine | Lysine | Valine | B |
+| 218 | One leadership theory states that “leaders are born and not made,” which refers to which of the following theories? | Trait | Great man | Charismatic | Situational | B |
+| 219 | The creamy substance that covers a new born’s skin is called | Lanugo | Vernix Lanugo | Vernix Caseosa | Lanugo vernix | C |
+| 220 | The surgical procedure for cleft palate repair is | Cheiloplasty | Palatoplasty | Zheiloplasty | Palateplasty | B |
+| 221 | Which test is not used during diagnosis or monitoring of asthma? | Diffusing capacity | Peak expiratory flow rate | Bronchial challenge test | Skin prick test | A |
+| 222 | Minimum and maximum score of Glasgow coma scale are: | 1---15 | 4-----15 | 2----15 | 3----15 | D |
+| 223 | The reason for craniotomy include | Biopsy of the tissue | Evacuation of haematoma | Clipping of aneurysm | All of the above | D |
+| 224 | Rheumatoid arthritis is characterized by ---------------- | Swan neck deformities | Symmetrical joint swelling | Asymmetrical joint swelling | Herbenden’s nodes | B |
+| 225 | Herbenden’s nodes are characteristics of: | Osteoarthritis | Osteomyelitis | Rheumatoid arthritis | Conjuctivities | A |
+| 226 | The joint which is commonly affected first in the gout is the -------------- | Thumb | Elbow | Toe | Knee | A |
+| 227 | Which of the following conceptual models is commonly used to determine and establish priorities of client problem? | Henderson’s theory | Roy’s adaption theory | General system theory | Maslow hierarchy of needs theory | D |
+| 228 | ----- is defined as a break in the continuity of a bone | Wound | Hemorrhage | Fracture | Stain | C |
+| 229 | Oral rehydration solution is prepared locally with -----------------? | 1 litre of clean water, 6 level teaspoons of salt and ½ teaspoon of sugar | 100ml of clean water, 6 level teaspoons of salt and ½ teaspoon of sugar | 1 litre of clean water, ½ level teaspoon of salt and 6 level teaspoon of sugar | 500ml of clean water, 4 level teaspoon of salt and ½ level teaspoon of sugar | C |
+| 230 | Schistosoma hematobium is a parasite that targets the ……………..? | Blood | Bladder | GIT | Skin | B |
+| 231 | Which of the following is metabolic acidosis? | Increased carbonic acid (H2CO3) | Decreased carbonic acid (H2CO3) | Increased base bicarbonate (HCO3–) | Decreased base bicarbonate (HCO3–) | A |
+| 232 | Which of the following is metabolic alkalosis? | Increased carbonic acid (H2CO3) | Decreased carbonic acid (H2CO3) | Increased base bicarbonate (HCO3–) | Decreased base bicarbonate (HCO3–) | B |
+| 233 | Which of the following is Respiratory acidosis? | Increased carbonic acid (H2CO3) | Decreased carbonic acid (H2CO3) | Increased base bicarbonate (HCO3–) | Decreased base bicarbonate (HCO3–) | D |
+| 234 | Which of the following is Respiratory alkalosis? | Increased carbonic acid (H2CO3) | Decreased carbonic acid (H2CO3) | Increased base bicarbonate (HCO3–) | Decreased base bicarbonate (HCO3–) | C |
+| 235 | What is a compensatory mechanism for metabolic alkalosis? | Shifting of bicarbonate into cells in exchange for chloride | Kidney conservation of bicarbonate and excretion of hydrogen ions | Deep, rapid respirations (Kussmaul respirations) to increase CO2 excretion | Decreased respiratory rate and depth to retain CO2 and kidney excretion of bicarbonate | C |
+| 236 | What covers the larynx during swallowing? | Trachea | Turbinate | Epiglottis | Parietal pleura | C |
+| 237 | The chief advantage of an autograft over homograft is the fact that autograft: | Are less likely to slough | Are less likely to become infected | More nearly match the skin of the area | Need not be stored before using | C |
+| 238 | The digestive tunics is arranged in this order from inward to outward; | Mucosa – Submucosa- Muscularis- Adventitia | Adventitia - Muscularis – Submucosa – Mucosa | Mucosa – Muscularis – Submucosa – Adventitia | Muscularis – Submucosa – Mucosa – Adventitia | A |
+| 239 | The nurse correctly places the client in which position when the physician is ready to perform the pelvic examination? | Sims’ position | Trendelenburg’s position | Fowler’s position | Lithotomy position | D |
+| 240 | The two types of cells that are found in the nervous system are what and what? | Excitatory and non-excitatory cells | Neurons and glia cells | Conductive and non-conductive cells | All of the above | D |
+| 241 | The fingerlike projections, processes that are sometimes refer to as fibres in the part of a neuron are known as what? | Axon | Axon terminals | Synaptic knob | Dendrites | D |
+| 242 | The following glial cells are found in the peripheral nervous system except | Schwann cells | Satellite cells | Radial cells | None of the above | C |
+| 243 | Prosencephalon in the primary vesicles is also known as what? | Forebrain | Midbrain | Hindbrain | All of the above | A |
+| 244 | What is the primary function of the spleen in the immune system? | Producing red blood cells | Filtering blood and removing damaged blood cells and pathogens | Storing excess lymphocytes | Regulating blood pressure | B |
+| 245 | Which of the following structures contain blood? | Glomerulus | Bowman’s capsule | Collecting duct | Proximal convoluted tubule | A |
+| 246 | Group A beta haemolytic streptococci is seen in which of these disorders? | Nephritic syndrome | Acute glomerulonephritis | Chronic glomerulonephritis | Acute kidney injury | B |
+| 247 | In the bladder, the opening of the two ureters and the urethra neck is known as? | Rugae | Adventitia | Trigone | Fundus | C |
+| 248 | Most of the hormones of the endocrine system are regulated by? | Negative feedback mechanism | Positive feedback mechanism | Hormone-gene complex | Hormone-receptor complex | A |
+| 249 | If the reagent strip can detect the following substances, which one would the nurse expect to be present in the urine of a client with glomerulonephritis? | Glucose | Bilirubin | Albumin | Acetone | C |
