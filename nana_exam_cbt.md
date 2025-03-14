@@ -76,33 +76,34 @@
 | 71 |	The nurse is teaching a patient and his family about dietary practices related to Parkinson’s disease. A priority for the nurse to address is risk of:	| fluid overload and drooling. |	Aspiration and anorexia. | choking and diarrhoea.	| dysphagia and constipation. |	D |
 | 72 |	n a patient with meningitis, irritation to which Cranial Nerve could cause photophobia?	| III	| IV | V  |VI	| C | 
 | 73 |	Which assessment data would indicate to the nurse that the client would be at risk for a haemorrhagic stroke?	| A blood glucose level of 480 mg/dL.	| A right-sided carotid bruit.	| A blood pressure of 220/120 mm Hg.	| The presence of bronchogenic carcinoma. |	C |
-| 74 |	The third stage of general adaptation syndrome is ____________.	Stage of alarm	State of exhaustion	State of resistance	State of reconciliation	B
-| 75 |	____________ is defined as a purposeful goal directed dialogue between the nurse and patient and his family that aimed at collecting specific information from them	Physical examination	Interview	Observation	Recording	B
-| 76 |	Thyroid hormones:	inhibits protein synthesis, releases fatty acids and stimulates glucose formation	Stimulate storage of glucose and fat	Inhibits insulin and glucagon	increase the rate of metabolism, enhance protein synthesis, and stimulate lipid break down	D
-| 77 |	Adrenocorticotrophic hormones are produced by	Adrenal glands 	Posterior pituitary gland	Anterior pituitary gland 	Hypothalamus	A
-| 78 |	The endocrine portion of the pancreas include three distinct types of hormones secreting cells namely:	Alpha, beta and islet cells	Alpha, beta and delta cells 	Islets, delta and alpha cells 	Beta, islet and delta cells	B
-| 79 |	Cortisol is produced by	Zona glomerulosa 	Zona fasciculata	Zona reticularis	Zona medullaris	A
-| 80 |	A two hour post load blood glucose level of _______ or greater is diagnostic of diabetes mellitus	12.1 mmoi/L	11.1 mmoi/L	10.1 mmoi/L	9.1 mmoi/L	B
-| 81 |	One major acute complication of diabetes mellitus is _________	Diabetes foot ulcers	Cataract 	Hypoglycaemia 	Hypertension	C
-| 82 |	An appropriate nursing diagnosis for a patient with hyperthyroidism is:	Imbalanced nutrition, more than body requirement related to increased  metabolic rate	Imbalanced diet related to depressed gastrointestinal function 	Imbalanced nutrition, less than body requirement related to increased gastrointestinal activity and exaggerated metabolic rate 	Activity intolerance related to fatigue and depressed cognitive process	C
-| 83 |	The patient with aldosteronism exhibits a profound decline in the serum levels of:	Calcium and phosphorous  	Potassium and hydrogen ions  	Hydrogen ions and calcium	Phosphorus and magnesium	B
-| 84 |	Addisionian crisis is characterized by _________	Cyanosis and circulatory shock	Ineffective breathing and hypertension 	Hypertension and respiratory function 	Abdominal pain and constipation	A
-| 85 |	Which of these clinical manifestations are characteristics of hyperparathyroidism	Bone tumor and demineralization	Kyphosis and decalcification 	Decalcification and urine retention 	Renal calculi and bone decalcification	D
-| 86 |	The nurse caring for the patient with hypothyroidism need to administer hypnotic and sedatives with caution because:	The patient is prone to addiction 	The patient lacks oxygen 	The patient is very susceptible to respiratory depression 	The patient has hypoxia	C
-| 87 |	Glasgow coma scale is a measure of 	Level of consciousness 	Intracranial pressure 	Memory 	Jugular venous pressure	A
-| 88 |	Cerebrospinal fluid is found normally in the _________	Epidural space	Subarachnoid space 	Subdural space 	Intradural space	B
-| 89 |	A major function of the parietal lobe of the brain is ___________.	Control of movements of voluntary skeletal muscles 	Provides sensation of temperature, pressure, touch and pain involving skin	Interpret sensory experiences  and remember visual scenes 	Consists sensory areas responsible for vision	B
-| 90 |	The nurse caring for an unconscious patient following head injury recognizes _________ as a sign of complication	Increased intracranial pressure 	Decreased blood pressure 	Elevated body temperature 	Increased alertness	A
-| 91 |	___________ is characterized by nuchal rigidity, headaches and vomiting.	Poliomyelitis 	Cerebral palsy 	Hydrocephalus	Meningitis	D
-| 92 |	Paralysis of both legs and lower half of the body is referred to as:	Hemiplegia 	Quadriplegia 	Paraplegia 	Monoplegia	C
-| 93 |	Active exercise of the unaffected body part of a patient who has suffered spinal cord injury is an integral part of nursing care. To achieve this the nurse emphasizes the strengthening of the ______ muscles to enhance transfer activities in ambulation with crutches 	Bicep muscles 	Tricep muscles 	Quadriceps muscles 	Abdominal muscles	B
-| 94 |	One of the correct diagnostic finding in poliomyelitis is 	Cerebrospinal fluid pressure of 150 – 200mm of water	Cerebrospinal fluid pressure of 60 – 120mm of water	Cerebrospinal fluid pressure of 80 – 160mm of water	Cerebrospinal fluid pressure of 100 – 140mm of water	A
-| 95 |	The following are risk factors for cerebrovascular disease EXCEPT:	Obesity 	Blood lipid abnormalities	Diabetes mellitus  	Liver  Cirrhosis	D
-| 96 |	The causative organism for whooping cough is:	Histoplasma capsulatum	Bordetella pertussis	Klebsiella pneumonia	Beta-hemolytic Streptococcus	B
-| 97 |	Rheumatic fever is which of the following types of disease?	Nutritional 	Endocrine	Infectious	Collagen	C
-| 98 |	A situation arising from conflicts between the rightness and wrongness, or between the goodness and badness of the consequences of actions, rules or policies is	Ethical situation	Ethical decision	Ethical dilemma	Ethical issue	C
-| 99 |	The FOUR fundamental responsibilities of nurses according to the International Council of Nurses (ICN) Code of Ethics include the following EXCEPT	o promote health	To prevent death	To prevent illness	To restore health	B
-| 100 |	Elements of the Nursing & Midwifery Council of Nigeria’s Code of Professional Conduct include the following EXCEPT	The Professional Nurse and the Healthcare Consumer	The Professional Nurse and the Nursing Profession	The Professional Nurse and the Workplace	The Professional Nurse and the Public	C
-![image](https://github.com/user-attachments/assets/8e552ad6-5fde-473f-ba29-5f1253c67cfe)
+| 74 | The third stage of general adaptation syndrome is ____________. | Stage of alarm | State of exhaustion | State of resistance | State of reconciliation | B |
+| 75 | ____________ is defined as a purposeful goal directed dialogue between the nurse and patient and his family that aimed at collecting specific information from them | Physical examination | Interview | Observation | Recording | B |
+| 76 | Thyroid hormones: | inhibits protein synthesis, releases fatty acids and stimulates glucose formation | Stimulate storage of glucose and fat | Inhibits insulin and glucagon | increase the rate of metabolism, enhance protein synthesis, and stimulate lipid break down | D |
+| 77 | Adrenocorticotrophic hormones are produced by | Adrenal glands | Posterior pituitary gland | Anterior pituitary gland | Hypothalamus | A |
+| 78 | The endocrine portion of the pancreas include three distinct types of hormones secreting cells namely: | Alpha, beta and islet cells | Alpha, beta and delta cells | Islets, delta and alpha cells | Beta, islet and delta cells | B |
+| 79 | Cortisol is produced by | Zona glomerulosa | Zona fasciculata | Zona reticularis | Zona medullaris | A |
+| 80 | A two hour post load blood glucose level of _______ or greater is diagnostic of diabetes mellitus | 12.1 mmoi/L | 11.1 mmoi/L | 10.1 mmoi/L | 9.1 mmoi/L | B |
+| 81 | One major acute complication of diabetes mellitus is _________ | Diabetes foot ulcers | Cataract | Hypoglycaemia | Hypertension | C |
+| 82 | An appropriate nursing diagnosis for a patient with hyperthyroidism is: | Imbalanced nutrition, more than body requirement related to increased metabolic rate | Imbalanced diet related to depressed gastrointestinal function | Imbalanced nutrition, less than body requirement related to increased gastrointestinal activity and exaggerated metabolic rate | Activity intolerance related to fatigue and depressed cognitive process | C |
+| 83 | The patient with aldosteronism exhibits a profound decline in the serum levels of: | Calcium and phosphorous | Potassium and hydrogen ions | Hydrogen ions and calcium | Phosphorus and magnesium | B |
+| 84 | Addisionian crisis is characterized by _________ | Cyanosis and circulatory shock | Ineffective breathing and hypertension | Hypertension and respiratory function | Abdominal pain and constipation | A |
+| 85 | Which of these clinical manifestations are characteristics of hyperparathyroidism | Bone tumor and demineralization | Kyphosis and decalcification | Decalcification and urine retention | Renal calculi and bone decalcification | D |
+| 86 | The nurse caring for the patient with hypothyroidism need to administer hypnotic and sedatives with caution because: | The patient is prone to addiction | The patient lacks oxygen | The patient is very susceptible to respiratory depression | The patient has hypoxia | C |
+| 87 | Glasgow coma scale is a measure of | Level of consciousness | Intracranial pressure | Memory | Jugular venous pressure | A |
+| 88 | Cerebrospinal fluid is found normally in the _________ | Epidural space | Subarachnoid space | Subdural space | Intradural space | B |
+| 89 | A major function of the parietal lobe of the brain is ___________. | Control of movements of voluntary skeletal muscles | Provides sensation of temperature, pressure, touch and pain involving skin | Interpret sensory experiences and remember visual scenes | Consists sensory areas responsible for vision | B |
+| 90 | The nurse caring for an unconscious patient following head injury recognizes _________ as a sign of complication | Increased intracranial pressure | Decreased blood pressure | Elevated body temperature | Increased alertness | A |
+| 91 | ___________ is characterized by nuchal rigidity, headaches and vomiting. | Poliomyelitis | Cerebral palsy | Hydrocephalus | Meningitis | D |
+| 92 | Paralysis of both legs and lower half of the body is referred to as: | Hemiplegia | Quadriplegia | Paraplegia | Monoplegia | C |
+| 93 | Active exercise of the unaffected body part of a patient who has suffered spinal cord injury is an integral part of nursing care. To achieve this the nurse emphasizes the strengthening of the ______ muscles to enhance transfer activities in ambulation with crutches | Bicep muscles | Tricep muscles | Quadriceps muscles | Abdominal muscles | B |
+| 94 | One of the correct diagnostic finding in poliomyelitis is | Cerebrospinal fluid pressure of 150 – 200mm of water | Cerebrospinal fluid pressure of 60 – 120mm of water | Cerebrospinal fluid pressure of 80 – 160mm of water | Cerebrospinal fluid pressure of 100 – 140mm of water | A |
+| 95 | The following are risk factors for cerebrovascular disease EXCEPT: | Obesity | Blood lipid abnormalities | Diabetes mellitus | Liver Cirrhosis | D |
+| 96 | The causative organism for whooping cough is: | Histoplasma capsulatum | Bordetella pertussis | Klebsiella pneumonia | Beta-hemolytic Streptococcus | B |
+| 97 | Rheumatic fever is which of the following types of disease? | Nutritional | Endocrine | Infectious | Collagen | C |
+| 98 | A situation arising from conflicts between the rightness and wrongness, or between the goodness and badness of the consequences of actions, rules or policies is | Ethical situation | Ethical decision | Ethical dilemma | Ethical issue | C |
+| 99 | The FOUR fundamental responsibilities of nurses according to the International Council of Nurses (ICN) Code of Ethics include the following EXCEPT | To promote health | To prevent death | To prevent illness | To restore health | B |
+| 100 | Elements of the Nursing & Midwifery Council of Nigeria’s Code of Professional Conduct include the following EXCEPT | The Professional Nurse and the Healthcare Consumer | The Professional Nurse and the Nursing Profession | The Professional Nurse and the Workplace | The Professional Nurse and the Public | C |
+
+END, ALL THE BEST MATEY | Tick button | Happy face | Happy face | Happy face | Happy face | Happy face | Happy face | Happy face
 
 
