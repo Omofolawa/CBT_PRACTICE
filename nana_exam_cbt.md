@@ -104,6 +104,6 @@
 | 99 | The FOUR fundamental responsibilities of nurses according to the International Council of Nurses (ICN) Code of Ethics include the following EXCEPT | To promote health | To prevent death | To prevent illness | To restore health | B |
 | 100 | Elements of the Nursing & Midwifery Council of Nigeria’s Code of Professional Conduct include the following EXCEPT | The Professional Nurse and the Healthcare Consumer | The Professional Nurse and the Nursing Profession | The Professional Nurse and the Workplace | The Professional Nurse and the Public | C |
 
-END, ALL THE BEST MATEY | Tick button | Happy face | Happy face | Happy face | Happy face | Happy face | Happy face | Happy face
+END, ALL THE BEST MATEY
 
 
